@@ -1,0 +1,327 @@
+# depslib dependency file v1.0
+1664131072 source:c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\clinica\main.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
+1664132951 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\clinica\funciones.h
+
+1666029724 source:c:\users\hacke\documents\github\labo2_clinica\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+
+1666029596 c:\users\hacke\documents\github\labo2_clinica\funciones.h
+
+1666746609 source:c:\users\hacke\documents\github\labo2_clinica\main.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"funcionesRecuadro.h"
+	"Medico.h"
+
+1666742177 c:\users\hacke\documents\github\labo2_clinica\menu.h
+
+1666742177 c:\users\hacke\documents\github\labo2_clinica\funcionesrecuadro.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+
+1655435748 c:\users\hacke\documents\github\labo2_clinica\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1666742177 source:c:\users\hacke\documents\github\labo2_clinica\turnos.cpp
+	<iostream>
+	<cstdlib>
+	"turnos.h"
+
+1666746456 c:\users\hacke\documents\github\labo2_clinica\turnos.h
+	"rlutil.h"
+
+1666742499 source:c:\users\hacke\documents\github\labo2_clinica\fecha.cpp
+	<iostream>
+	<conio.h>
+	"Fecha.h"
+	"rlutil.h"
+
+1666742499 c:\users\hacke\documents\github\labo2_clinica\fecha.h
+
+1666742499 source:c:\users\hacke\documents\github\labo2_clinica\persona.cpp
+	<iostream>
+	<conio.h>
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1666746219 c:\users\hacke\documents\github\labo2_clinica\persona.h
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Fecha.h"
+
+1666746389 source:c:\users\hacke\documents\github\labo2_clinica\medico.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"Medico.h"
+	<cstdio>
+	<iomanip>
+
+1666746931 c:\users\hacke\documents\github\labo2_clinica\medico.h
+	<cstdlib>
+	<string.h>
+	"Persona.h"
+	"turnos.h"
+
+1667676209 source:c:\users\hacke\documents\github\labo2clinica\fecha.cpp
+	<iostream>
+	<conio.h>
+	"Fecha.h"
+	"rlutil.h"
+	<ctime>
+
+1667676209 c:\users\hacke\documents\github\labo2clinica\fecha.h
+
+1655435748 c:\users\hacke\documents\github\labo2clinica\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667676209 source:c:\users\hacke\documents\github\labo2clinica\main.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"funcionesRecuadro.h"
+	"Medico.h"
+	"Afiliado.h"
+	"turnos.h"
+
+1666747839 c:\users\hacke\documents\github\labo2clinica\menu.h
+
+1666747839 c:\users\hacke\documents\github\labo2clinica\funcionesrecuadro.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+
+1667764539 c:\users\hacke\documents\github\labo2clinica\medico.h
+	<cstdlib>
+	<string.h>
+	"Persona.h"
+	"turnos.h"
+
+1666747839 c:\users\hacke\documents\github\labo2clinica\persona.h
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Fecha.h"
+
+1667956761 c:\users\hacke\documents\github\labo2clinica\turnos.h
+	"rlutil.h"
+	"Fecha.h"
+
+1667764539 source:c:\users\hacke\documents\github\labo2clinica\medico.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"Medico.h"
+	<cstdio>
+	<iomanip>
+	"Fecha.h"
+
+1666747839 source:c:\users\hacke\documents\github\labo2clinica\persona.cpp
+	<iostream>
+	<conio.h>
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1667956773 source:c:\users\hacke\documents\github\labo2clinica\turnos.cpp
+	<iostream>
+	<cstdlib>
+	"turnos.h"
+	"Fecha.h"
+	<math.h>
+	"Medico.h"
+	<iomanip>
+	"Afiliado.h"
+
+1667764539 source:c:\users\hacke\documents\github\labo2clinica\afiliado.cpp
+	<iostream>
+	<cstdlib>
+	<cstdlib>
+	"rlutil.h"
+	"Medico.h"
+	<cstdio>
+	<iomanip>
+	"Fecha.h"
+	"Afiliado.h"
+
+1667764539 c:\users\hacke\documents\github\labo2clinica\afiliado.h
+	<cstdlib>
+	<string.h>
+	"Persona.h"
+	"Turnos.h"
+	"Medico.h"
+	"Fecha.h"
+
+1667764539 source:c:\users\hacke\documents\github\labo2clinica\quejas.cpp
+	<iostream>
+	<cstdlib>
+	"Quejas.h"
+	"rlutil.h"
+	<cstring>
+
+1667680668 c:\users\hacke\documents\github\labo2clinica\quejas.h
+	<cstdlib>
+	<string.h>
+	"Persona.h"
+	"turnos.h"
+
+1668720660 source:c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\afiliado.cpp
+	<iostream>
+	<cstdlib>
+	<cstdlib>
+	"rlutil.h"
+	"Medico.h"
+	<cstdio>
+	<iomanip>
+	"Fecha.h"
+	"Afiliado.h"
+
+1668720660 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668720660 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\medico.h
+	<cstdlib>
+	<string.h>
+	"Persona.h"
+	"turnos.h"
+
+1668720660 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\persona.h
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Fecha.h"
+
+1668720660 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\fecha.h
+
+1668720660 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\turnos.h
+	"rlutil.h"
+	"Fecha.h"
+
+1668720660 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\afiliado.h
+	<cstdlib>
+	<string.h>
+	"Persona.h"
+	"Turnos.h"
+	"Medico.h"
+	"Fecha.h"
+
+1668720660 source:c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\fecha.cpp
+	<iostream>
+	<conio.h>
+	"Fecha.h"
+	"rlutil.h"
+	<ctime>
+
+1668720688 source:c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\main.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"funcionesRecuadro.h"
+	"Medico.h"
+	"Afiliado.h"
+	"turnos.h"
+
+1668720660 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\menu.h
+
+1668720660 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\funcionesrecuadro.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+
+1668720660 source:c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\medico.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"Medico.h"
+	<cstdio>
+	<iomanip>
+	"Fecha.h"
+
+1668720660 source:c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\persona.cpp
+	<iostream>
+	<conio.h>
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1668720660 source:c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\quejas.cpp
+	<iostream>
+	<cstdlib>
+	"Quejas.h"
+	"rlutil.h"
+	<cstring>
+
+1668720660 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\quejas.h
+	<cstdlib>
+	<string.h>
+	"Persona.h"
+	"turnos.h"
+
+1668720660 source:c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\turnos.cpp
+	<iostream>
+	<cstdlib>
+	"turnos.h"
+	"Fecha.h"
+	<math.h>
+	"Medico.h"
+	<iomanip>
+	"Afiliado.h"
+
+1667140659 source:c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\especialidades.cpp
+	<iostream>
+	<cstdlib>
+	"Especialidades.h"
+	<cstdlib>
+	<string.h>
+
+1667142426 c:\users\charl\onedrive\escritorio\ejercicios codeblocks\labo 2\clinica\labo2clinica\especialidades.h
+

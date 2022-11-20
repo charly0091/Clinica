@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Quejas.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="250" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="342" topLine="79" />
+		</Cursor>
+	</File>
+	<File name="Especialidades.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="132" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Fecha.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1639" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="turnos.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1195" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="Afiliado.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="637" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Turnos.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15921" topLine="241" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="74" />
+			<Collapse line="191" />
+			<Collapse line="221" />
+			<Collapse line="248" />
+			<Collapse line="263" />
+			<Collapse line="358" />
+			<Collapse line="370" />
+			<Collapse line="382" />
+			<Collapse line="396" />
+			<Collapse line="411" />
+		</Folding>
+	</File>
+	<File name="Especialidades.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="191" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Quejas.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3633" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="65" />
+			<Collapse line="122" />
+			<Collapse line="134" />
+			<Collapse line="147" />
+			<Collapse line="190" />
+			<Collapse line="212" />
+			<Collapse line="233" />
+		</Folding>
+	</File>
+	<File name="Persona.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="833" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="funcionesRecuadro.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2942" topLine="108" />
+		</Cursor>
+		<Folding>
+			<Collapse line="126" />
+		</Folding>
+	</File>
+	<File name="Persona.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="39" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="Medico.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="469" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Afiliado.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="207" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="68" />
+			<Collapse line="122" />
+			<Collapse line="134" />
+			<Collapse line="146" />
+			<Collapse line="160" />
+			<Collapse line="235" />
+			<Collapse line="248" />
+		</Folding>
+	</File>
+	<File name="Medico.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1734" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="65" />
+			<Collapse line="246" />
+			<Collapse line="275" />
+			<Collapse line="290" />
+			<Collapse line="382" />
+			<Collapse line="395" />
+		</Folding>
+	</File>
+	<File name="Fecha.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="459" topLine="18" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
